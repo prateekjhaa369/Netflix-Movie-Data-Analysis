@@ -1,0 +1,19 @@
+In this data analysis project, I conducted an in-depth exploration of a Netflix movie dataset using Python, Pandas, and Jupyter Notebook. The primary objective was to extract meaningful insights about the most frequent genres, movie popularity, and film production trends over time.
+
+The first step involved data cleaning. This was essential because real-world data is often messy. I handled missing values, corrected inconsistent entries, and converted data types to make the dataset analysis-ready. For instance, I ensured numerical columns were correctly typed, categorical variables were converted for better performance, and null or irrelevant entries were either filled or removed based on context.
+
+Once the dataset was cleaned, I performed exploratory data analysis (EDA). This involved using statistical summaries and data visualization to understand distributions, patterns, and anomalies. I utilized Matplotlib and Seaborn, two powerful visualization libraries, to create intuitive graphs and charts.
+
+Some of the key insights discovered through the analysis were:
+
+The Drama genre emerged as the most frequently occurring genre in the dataset, making up over 14% of all movies.
+
+Around 25.5% of the dataset contained movies with a high number of votes (classified as “popular”), with Drama again being the leading genre among them.
+
+The most popular movie in the dataset was Spider-Man: No Way Home, which belongs to the Action, Adventure, and Science Fiction genres.
+
+The least popular movie, based on vote averages, was The United States, Thread, categorized under genres like Music, Drama, War, Sci-Fi, and History.
+
+Interestingly, 2020 turned out to be the most prolific year for movie releases in the dataset, which could be attributed to the surge in online content consumption during the COVID-19 pandemic.
+
+Overall, this project not only strengthened my skills in data cleaning and manipulation but also deepened my understanding of visual storytelling with data. It highlighted the importance of combining statistics with visuals to uncover trends and patterns that aren't immediately obvious through numbers alone.
